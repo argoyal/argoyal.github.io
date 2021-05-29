@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "https://argoyal.github.io/static/css/main.43d0e743.chunk.css",
-    "main.js": "https://argoyal.github.io/static/js/main.02204e36.chunk.js",
-    "main.js.map": "https://argoyal.github.io/static/js/main.02204e36.chunk.js.map",
-    "runtime-main.js": "https://argoyal.github.io/static/js/runtime-main.a4d96a93.js",
-    "runtime-main.js.map": "https://argoyal.github.io/static/js/runtime-main.a4d96a93.js.map",
+    "main.js": "https://argoyal.github.io/static/js/main.de4d7041.chunk.js",
+    "main.js.map": "https://argoyal.github.io/static/js/main.de4d7041.chunk.js.map",
+    "runtime-main.js": "https://argoyal.github.io/static/js/runtime-main.1fc102cb.js",
+    "runtime-main.js.map": "https://argoyal.github.io/static/js/runtime-main.1fc102cb.js.map",
     "static/js/2.91e79540.chunk.js": "https://argoyal.github.io/static/js/2.91e79540.chunk.js",
     "static/js/2.91e79540.chunk.js.map": "https://argoyal.github.io/static/js/2.91e79540.chunk.js.map",
     "static/js/3.7f5b6964.chunk.js": "https://argoyal.github.io/static/js/3.7f5b6964.chunk.js",
@@ -19,8 +19,8 @@
     "static/js/7.4455cd87.chunk.js.map": "https://argoyal.github.io/static/js/7.4455cd87.chunk.js.map",
     "static/js/8.edcc9c37.chunk.js": "https://argoyal.github.io/static/js/8.edcc9c37.chunk.js",
     "static/js/8.edcc9c37.chunk.js.map": "https://argoyal.github.io/static/js/8.edcc9c37.chunk.js.map",
-    "static/js/9.f7b9aa5e.chunk.js": "https://argoyal.github.io/static/js/9.f7b9aa5e.chunk.js",
-    "static/js/9.f7b9aa5e.chunk.js.map": "https://argoyal.github.io/static/js/9.f7b9aa5e.chunk.js.map",
+    "static/js/9.cf63b6ca.chunk.js": "https://argoyal.github.io/static/js/9.cf63b6ca.chunk.js",
+    "static/js/9.cf63b6ca.chunk.js.map": "https://argoyal.github.io/static/js/9.cf63b6ca.chunk.js.map",
     "static/js/10.0c05c4f5.chunk.js": "https://argoyal.github.io/static/js/10.0c05c4f5.chunk.js",
     "static/js/10.0c05c4f5.chunk.js.map": "https://argoyal.github.io/static/js/10.0c05c4f5.chunk.js.map",
     "index.html": "https://argoyal.github.io/index.html",
@@ -29,9 +29,9 @@
     "static/js/3.7f5b6964.chunk.js.LICENSE.txt": "https://argoyal.github.io/static/js/3.7f5b6964.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a4d96a93.js",
+    "static/js/runtime-main.1fc102cb.js",
     "static/js/3.7f5b6964.chunk.js",
     "static/css/main.43d0e743.chunk.css",
-    "static/js/main.02204e36.chunk.js"
+    "static/js/main.de4d7041.chunk.js"
   ]
 }
