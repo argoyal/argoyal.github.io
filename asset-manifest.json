@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://argoyal.github.io/static/css/main.43d0e743.chunk.css",
-    "main.js": "https://argoyal.github.io/static/js/main.e56794fa.chunk.js",
-    "main.js.map": "https://argoyal.github.io/static/js/main.e56794fa.chunk.js.map",
+    "main.js": "https://argoyal.github.io/static/js/main.02204e36.chunk.js",
+    "main.js.map": "https://argoyal.github.io/static/js/main.02204e36.chunk.js.map",
     "runtime-main.js": "https://argoyal.github.io/static/js/runtime-main.a4d96a93.js",
     "runtime-main.js.map": "https://argoyal.github.io/static/js/runtime-main.a4d96a93.js.map",
     "static/js/2.91e79540.chunk.js": "https://argoyal.github.io/static/js/2.91e79540.chunk.js",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.a4d96a93.js",
     "static/js/3.7f5b6964.chunk.js",
     "static/css/main.43d0e743.chunk.css",
-    "static/js/main.e56794fa.chunk.js"
+    "static/js/main.02204e36.chunk.js"
   ]
 }
