@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'Arpit Goyal',
     path: '/',
   },
   {
@@ -17,12 +17,12 @@ const routes = [
     path: '/projects',
   },
   {
-    label: 'Stats',
-    path: '/stats',
-  },
-  {
     label: 'Contact',
     path: '/contact',
+  },
+  {
+    label: 'Blogs',
+    path: '/blogs',
   },
 ];
 

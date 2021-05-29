@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Indian Institute of Technology Kharagpur',
+    degree: 'Masters in Technology, Instrumentation and Signal Processing',
+    link: 'https://iitkgp.ac.in',
+    year: 2014,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Indian Institute of Technology Kharagpur',
+    degree: 'Bachelors in Technology, Electrical Engineering',
+    link: 'https://iitkgp.ac.in',
+    year: 2013,
   },
 ];
 
