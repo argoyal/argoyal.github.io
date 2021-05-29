@@ -19,6 +19,9 @@ const Navigation = () => (
             <Link to={l.path}>{l.label}</Link>
           </li>
         ))}
+        <li key="Blogs">
+          <a href="https://arpitgoyalkgp.medium.com" target="_blank" rel="noreferrer">My Blog</a>
+        </li>
       </ul>
     </nav>
     <Hamburger />

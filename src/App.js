@@ -24,13 +24,6 @@ const App = () => (
         <Route path="/projects" component={Projects} />
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
-        <Route
-          path="/blogs"
-          component={() => {
-            window.location.href = 'https://arpitgoyalkgp.medium.com';
-            return null;
-          }}
-        />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>
