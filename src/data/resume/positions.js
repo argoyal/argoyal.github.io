@@ -2,7 +2,7 @@ const positions = [
   {
     company: 'Calance Softwares Pvt. Ltd.',
     position: 'Manager',
-    link: 'https://calanceus.com',
+    link: 'https://www.calanceus.com',
     daterange: 'June 2021 - Present',
     points: [],
   },
