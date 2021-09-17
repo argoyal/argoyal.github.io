@@ -15,8 +15,10 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: 14.x
-    - name: Install
-      run: npm ci
+    - name: Install Yarn
+      run: npm install --global yarn
+    - name: Running npm CI alternative
+      run: yarn install --frozen-lockfile
     - name: Build and Deploy
       env:
         NODE_ENV: production
@@ -26,4 +28,4 @@ jobs:
           git config user.name "Automated"
           git config user.email "arpitgoyal.thunderbird@gmail.com"
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/argoyal/argoyal.github.io.git
-          npm run deploy
+          yarn run deploy
