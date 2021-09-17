@@ -1,9 +1,16 @@
 const positions = [
   {
+    company: 'Calance Softwares Pvt. Ltd.',
+    position: 'Manager',
+    link: 'https://calanceus.com',
+    daterange: 'June 2021 - Present',
+    points: [],
+  },
+  {
     company: 'Ernst & Young LLP',
     position: 'Manager, Technology Head',
     link: 'https://ey.com',
-    daterange: 'February 2020 - Present',
+    daterange: 'February 2020 - June 2021',
     points: [
       'Large scale deployment of the EY Spotmentor platform for multiple clients - Axiata, Birlasoft',
       'Extensive understanding of Technical B2B account management',
