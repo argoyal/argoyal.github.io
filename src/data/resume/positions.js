@@ -14,13 +14,13 @@ const positions = [
     points: [
       'Large scale deployment of the EY Spotmentor platform for multiple clients - Axiata, Birlasoft',
       'Extensive understanding of Technical B2B account management',
-      'Skills Developed: Technical account management, Business Development, Technical delivery'
+      'Skills Developed: Technical account management, Business Development, Technical delivery',
     ],
   },
   {
     company: 'Spotmentor',
     position: 'Co-founder, CTO',
-    link: 'https://spotmentor.com/sign-in',
+    link: 'https://spotmentor.com/',
     daterange: 'May 2016 - February 2020',
     points: [
       'Acquired by Ernst & Young LLP.',
@@ -37,7 +37,7 @@ const positions = [
       'Implemented EFK (ElasticSearch, FluentBit and Kibana) stack for log management using Kubernetes.',
       'Working knowledge on Deep Neural Network using Keras, TensorFlow.',
       'Soft Skills Developed: Communication, Team Building, Leadership, Mentorship.',
-      'Technical Skills Developed: Python, Kubernetes, Docker, Elasticsearch, Jenkins, Kibana, Celery, Redis, RabbitMQ, MySQL, PostGreSQL, Git, ReactJS, Redux, Test Driven Development, BeautifulSoup4, Selenium, Bloom filters, Pandas, Scipy, Numpy, NLTK etc.'
+      'Technical Skills Developed: Python, Kubernetes, Docker, Elasticsearch, Jenkins, Kibana, Celery, Redis, RabbitMQ, MySQL, PostGreSQL, Git, ReactJS, Redux, Test Driven Development, BeautifulSoup4, Selenium, Bloom filters, Pandas, Scipy, Numpy, NLTK etc.',
     ],
   },
   {
