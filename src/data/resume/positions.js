@@ -27,7 +27,7 @@ const positions = [
       "Built and managed an entire technology team of 18.",
       "Key resource for gathering client requirements and feature understanding.",
       "Instrumental in setting up project management process using Agile methodology.",
-      "Extensive hands-on experience of integrating B2B SaaS platforms with other SaaS solutions like SuccessFactors, ",Salesforce, etc.
+      "Extensive hands-on experience of integrating B2B SaaS platforms with other SaaS solutions like SuccessFactors, Salesforce etc.",
       "Created a microservice-based architecture for the backend using Flask with a boilerplate available on Github.",
       "Created the entire infrastructure platform by setting up a custom Kubernetes cluster using KOPS on AWS cloud.",
       "Created the pipeline for CI/CD using Jenkins and Bitbucket.",
