@@ -14,6 +14,7 @@ const positions = [
     points: [
       'Large scale deployment of the EY Spotmentor platform for multiple clients - Axiata, Birlasoft',
       'Extensive understanding of Technical B2B account management',
+      'Skills Developed: Technical account management, Business Development, Technical delivery'
     ],
   },
   {
@@ -22,23 +23,21 @@ const positions = [
     link: 'https://spotmentor.com/sign-in',
     daterange: 'May 2016 - February 2020',
     points: [
-      'Acquired by Ernst & Young LLP',
-      'Built and managed entire technology team.',
-      'Direct interaction with HR managers, Technology leads of clients for feature understanding and requirements gathering.',
-      'Worked in integration of various other HR management tools including SuccessFactors, Salesforce etc.',
-      'Created the entire backend structure as a microservices based architecture in Flask. Exposed a less featured microservice skeleton on Github (link below in projects) and a Spotmentor specific full featured private repository on Bitbucket.',
-      'Worked in Kubernetes and Docker (Containerization) for container management and scaling of microservices.',
-      'Implementation of EFK (ElasticSearch, FluentBit and Kibana) stack for log management using Kubernetes.',
-      'Worked with technologies like Celery, Redis, RabbitMQ, MySQL, PostGreSQL etc.',
-      'Used Jenkins CI tool for automated deployment. Wrote pipelines in Groovy.',
-      'Working knowledge of React JS and Redux.',
-      'Worked on implementation of SSO with Salesforce IdP.',
-      'Followed Test Driven Development and implemented the entire testing framework for software development.',
-      'Implemented the deployment strategies using Kubernetes on Amazon Web Services. Worked in custom AMI creation, custom VPC creation with Public and Private subnets, setting up NAT gateways, managemement of EC2 instances, S3, Route53 and other related AWS technologies.',
-      'Wrote scrappers for web scraping using Selenium, BeautifulSoup4 etc.',
-      'Built recommendation engine using Collaborative Filtering and created the framework for using BloomFilters Probabilistic Databases.',
-      'Worked with Deep Neural Network using Keras, TensorFlow. Created word embeddings on millions of resumes and job descriptions.',
-      'Working knowledge on Python libraries like - Pandas, Scipy, Numpy, NLTK etc.',
+      "Acquired by Ernst & Young LLP.",
+      "Built and managed an entire technology team of 18.",
+      "Key resource for gathering client requirements and feature understanding.",
+      "Instrumental in setting up project management process using Agile methodology.",
+      "Extensive hands-on experience of integrating B2B SaaS platforms with other SaaS solutions like SuccessFactors, ",Salesforce, etc.
+      "Created a microservice-based architecture for the backend using Flask with a boilerplate available on Github.",
+      "Created the entire infrastructure platform by setting up a custom Kubernetes cluster using KOPS on AWS cloud.",
+      "Created the pipeline for CI/CD using Jenkins and Bitbucket.",
+      "Created the custom scraping framework for extracting data from the web using Scrapy.",
+      "Created recommendation engine using Collaborative Filtering for predicting user learning content.",
+      "Created a word embedding on millions of resumes and job descriptions with 91% accuracy.",
+      "Implemented EFK (ElasticSearch, FluentBit and Kibana) stack for log management using Kubernetes.",
+      "Working knowledge on Deep Neural Network using Keras, TensorFlow.",
+      "Soft Skills Developed: Communication, Team Building, Leadership, Mentorship",
+      "Technical Skills Developed: Python, Kubernetes, Docker, Elasticsearch, Jenkins, Kibana, Celery, Redis, RabbitMQ, MySQL, PostGreSQL, Git, ReactJS, Redux, Test Driven Development, BeautifulSoup4, Selenium, Bloom filters, Pandas, Scipy, Numpy, NLTK etc"
     ],
   },
   {
