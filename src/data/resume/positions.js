@@ -1,9 +1,23 @@
 const positions = [
   {
     company: 'Calance Softwares Pvt. Ltd.',
+    position: 'Vice President, Cloud Infrastructure and DevOps',
+    link: 'https://www.calanceus.com',
+    daterange: 'January 2024 - Present',
+    points: [],
+  },
+  {
+    company: 'Calance Softwares Pvt. Ltd.',
+    position: 'Senior Manager',
+    link: 'https://www.calanceus.com',
+    daterange: 'June 2022 - January 2024',
+    points: [],
+  },
+  {
+    company: 'Calance Softwares Pvt. Ltd.',
     position: 'Manager',
     link: 'https://www.calanceus.com',
-    daterange: 'June 2021 - Present',
+    daterange: 'June 2021 - June 2022',
     points: [],
   },
   {
