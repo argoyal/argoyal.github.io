@@ -5,17 +5,42 @@ const skills = [
   {
     title: 'Javascript',
     competency: 3,
-    category: ['Web Development', 'Languages', 'Javascript'],
+    category: ['Web Development', 'Languages'],
+  },
+  {
+    title: 'Account Management',
+    competency: 3,
+    category: ['Management'],
+  },
+  {
+    title: 'Business Development',
+    competency: 2,
+    category: ['Management'],
+  },
+  {
+    title: 'Project Management',
+    competency: 4.5,
+    category: ['Management'],
+  },
+  {
+    title: 'Stakeholder Management',
+    competency: 3,
+    category: ['Management'],
+  },
+  {
+    title: 'Team Building',
+    competency: 5,
+    category: ['Management'],
   },
   {
     title: 'Node.JS',
     competency: 2,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Development'],
   },
   {
     title: 'React',
     competency: 3,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Development'],
   },
   {
     title: 'Bash',
@@ -55,7 +80,7 @@ const skills = [
   {
     title: 'Express.JS',
     competency: 2,
-    category: ['Web Development', 'Javascript'],
+    category: ['Web Development'],
   },
   {
     title: 'Flask',
@@ -104,7 +129,7 @@ const skills = [
   },
   {
     title: 'Docker',
-    competency: 4,
+    competency: 5,
     category: ['Tools', 'Infrastructure'],
   },
   {
@@ -113,12 +138,12 @@ const skills = [
     category: ['Web Development', 'Tools'],
   },
   {
-    title: 'IBM',
+    title: 'IBM Cloud',
     competency: 3,
     category: ['Web Development', 'Tools', 'Infrastructure'],
   },
   {
-    title: 'Oracle',
+    title: 'Oracle Cloud',
     competency: 3,
     category: ['Web Development', 'Tools', 'Infrastructure'],
   },
@@ -155,7 +180,7 @@ const skills = [
   {
     title: 'Data Visualization',
     competency: 3,
-    category: ['Data Science', 'Javascript'],
+    category: ['Data Science'],
   },
   {
     title: 'Pandas',
@@ -181,6 +206,11 @@ const skills = [
     title: 'Pylint',
     competency: 4,
     category: ['Data Engineering', 'Python'],
+  },
+  {
+    title: 'Azure Devops',
+    competency: 4,
+    category: ['Tools', 'Infrastructure'],
   },
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
 
