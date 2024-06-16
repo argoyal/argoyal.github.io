@@ -14,7 +14,12 @@ const skills = [
   },
   {
     title: 'Business Development',
-    competency: 2,
+    competency: 4,
+    category: ['Management'],
+  },
+  {
+    title: 'Organization Building',
+    competency: 4,
     category: ['Management'],
   },
   {

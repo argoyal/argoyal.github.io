@@ -3,22 +3,38 @@ const positions = [
     company: 'Calance Softwares Pvt. Ltd.',
     position: 'Vice President, Cloud Infrastructure and DevOps',
     link: 'https://www.calanceus.com',
-    daterange: 'January 2024 - Present',
-    points: [],
+    daterange: 'April 2024 - Present',
+	  points: [
+		  'Spearheaded the establishment of the digital and emerging technologies practice, resulting in the successful recruitment and onboarding of a team of 60 skilled professionals',
+		  'Introduced and established a formal appraisal cycle, enhancing organizational transparency and employee performance evaluation',
+		  'Led the AWS partner ecosystem initiatives, including certifications and training programs focused on Generative AI',
+		  'Collaborated with the US marketing team to produce and publish technical blogs, enhancing Calance’s market presence and thought leadership - https://blog.calanceus.com/tech-studio',
+		  'Played a pivotal role in establishing new business verticals and expanding into the Microsoft Power Platform ecosystem'
+	  ],
   },
   {
     company: 'Calance Softwares Pvt. Ltd.',
     position: 'Senior Manager',
     link: 'https://www.calanceus.com',
     daterange: 'June 2022 - January 2024',
-    points: [],
+	  points: [
+		  'Consolidated multiple repositories into a centralized GitHub repository for the Calance-US organization, improving version control and collaboration GitHub Organization - https://github.com/Calance-US',
+		  'Fostered a collaborative work environment by introducing and integrating O365 across the organization',
+		  'Streamlined AWS account management by merging all accounts into a single AWS organization account, enhancing billing centralization and security with SSO via Azure AD. This also resulted in improved auditing capabilities for cost optimization',
+		  'Developed a standardized resume generation system, streamlining processes for the managed services and staffing divisions',
+		  'Enabled single sign-on (SSO) for various applications, reducing credential management burdens and enhancing security'
+	  ],
   },
   {
     company: 'Calance Softwares Pvt. Ltd.',
     position: 'Manager',
     link: 'https://www.calanceus.com',
     daterange: 'June 2021 - June 2022',
-    points: [],
+	  points: [
+		  'Established a comprehensive DevOps practice, standardizing infrastructure with a single Kubernetes cluster and implementing role-based access through Kubesphere',
+		  'Implemented centralized project management tools and a wiki store, facilitating efficient knowledge transfer and project tracking',
+		  'Initiated the journey towards establishing the digital and emerging technologies practice, hiring the first 10 team members'
+	  ],
   },
   {
     company: 'Ernst & Young LLP',
