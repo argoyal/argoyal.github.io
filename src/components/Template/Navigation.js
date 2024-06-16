@@ -23,7 +23,7 @@ const Navigation = () => (
           <a href="https://arpitgoyalkgp.medium.com" target="_blank" rel="noreferrer">My Blog</a>
         </li>
         <li key="Blogs">
-          <a href="https://ppp.arpitgoyal.co.in" target="_blank" rel="noreferrer">Points Pro Plus</a>
+          <a href="http://ppp.arpitgoyal.co.in" target="_blank" rel="noreferrer">Points Pro Plus</a>
         </li>
       </ul>
     </nav>
