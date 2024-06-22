@@ -26,6 +26,20 @@ const App = () => (
         <Route path="/contact" component={Contact} />
         <Route path="/stats" component={Stats} />
         <Route path="/resume" component={Resume} />
+        <Route
+          path="/my-blog"
+          component={() => {
+            window.location.href = 'https://arpitgoyalkgp.medium.com';
+            return null;
+          }}
+        />
+        <Route
+          path="/ppp-services"
+          component={() => {
+            window.location.href = 'https://667653c37575b.site123.me/';
+            return null;
+          }}
+        />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>

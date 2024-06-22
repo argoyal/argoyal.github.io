@@ -24,6 +24,14 @@ const routes = [
     label: 'Stats',
     path: '/stats',
   },
+  {
+    label: 'My Blog',
+    path: '/my-blog',
+  },
+  {
+    label: 'PointsPro Plus',
+    path: '/ppp-services',
+  },
 ];
 
 export default routes;
