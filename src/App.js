@@ -36,7 +36,7 @@ const App = () => (
         <Route
           path="/ppp-services"
           component={() => {
-            window.location.href = 'https://667653c37575b.site123.me/';
+            window.location.href = 'https://667653c37575b.site123.me';
             return null;
           }}
         />
