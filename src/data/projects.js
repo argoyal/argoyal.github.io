@@ -14,7 +14,7 @@ const data = [
     title: 'Flask Scaffolding',
     subtitle: 'Mini project for microservices using Flask.',
     link: 'https://github.com/argoyal/flask-scaffolding',
-    image: '/images/projects/github_logo.jpg',
+    image: '/images/projects/flask_scaffolding.jpg',
     date: '2018-04-05',
     desc:
       'A boilerplate application to spin off a mini flask microservice '
@@ -29,6 +29,26 @@ const data = [
     desc:
       'An extensible API interface directly querying the OSticket database '
       + 'and exposing the data via flask web services.',
+  },
+  {
+    title: 'Spotmentor',
+    subtitle: 'HR Tech platform for large enterprises',
+    link: 'https://www.spotmentor.com/',
+    image: '/images/projects/spotmentor.jpg',
+    date: '2016-05-01',
+    desc:
+      'An enterprise HR tech platform that helps large enterprises '
+      + 'identify skill gaps and recommend training programs near real-time, ',
+  },
+  {
+    title: 'MINLEX',
+    subtitle: 'HR Tech platform for large enterprises',
+    link: 'http://minlex.minpol.com/',
+    image: '/images/projects/minlex.jpg',
+    date: '2016-03-01',
+    desc:
+      'A website to store and manage mineral policy documents, '
+      + 'and to provide a platform for public consultation, ',
   },
   {
     title: 'Django Test Addons',

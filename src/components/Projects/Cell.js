@@ -9,11 +9,13 @@ const Cell = ({ data }) => (
         <h3><a href={data.link} target="_blank" rel="noreferrer">{data.title}</a></h3>
         <time className="published">{dayjs(data.date).format('MMMM, YYYY')}</time>
       </header>
-      <a href={data.link} target="_blank" rel="noreferrer" className="image">
-        <img src={`${process.env.PUBLIC_URL}${data.image}`} alt={data.title} />
-      </a>
-      <div className="description">
-        <p>{data.desc}</p>
+      <div className="project-content">
+        <a href={data.link} target="_blank" rel="noreferrer" className="image">
+          <img src={`${process.env.PUBLIC_URL}${data.image}`} alt={data.title} />
+        </a>
+        <div className="description-container">
+          <p>{data.desc}</p>
+        </div>
       </div>
     </article>
   </div>
