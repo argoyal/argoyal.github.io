@@ -32,6 +32,10 @@ const routes = [
     label: 'PointsPro Plus',
     path: '/ppp-services',
   },
+  {
+    label: 'My Drive',
+    path: '/my-drive',
+  },
 ];
 
 export default routes;

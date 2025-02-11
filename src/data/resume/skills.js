@@ -9,7 +9,7 @@ const skills = [
   },
   {
     title: 'Account Management',
-    competency: 3,
+    competency: 4,
     category: ['Management'],
   },
   {
@@ -19,7 +19,7 @@ const skills = [
   },
   {
     title: 'Organization Building',
-    competency: 4,
+    competency: 5,
     category: ['Management'],
   },
   {
@@ -29,7 +29,7 @@ const skills = [
   },
   {
     title: 'Stakeholder Management',
-    competency: 3,
+    competency: 4,
     category: ['Management'],
   },
   {
@@ -54,7 +54,7 @@ const skills = [
   },
   {
     title: 'Amazon Web Services',
-    competency: 4,
+    competency: 5,
     category: ['Web Development', 'Tools', 'Infrastructure'],
   },
   {
@@ -69,12 +69,12 @@ const skills = [
   },
   {
     title: 'PostgreSQL/SQLite3/SQL',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Databases', 'Languages'],
   },
   {
     title: 'Redis',
-    competency: 3,
+    competency: 4,
     category: ['Web Development', 'Databases'],
   },
   {

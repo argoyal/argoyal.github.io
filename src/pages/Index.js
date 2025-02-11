@@ -11,7 +11,10 @@ const Index = () => (
       <header>
         <div className="title">
           <p>
-            <b>Check out the latest acquisition news <a href="https://economictimes.indiatimes.com/tech/startups/ey-india-acquires-ai-startup/articleshow/79218623.cms" target="_blank" rel="noreferrer"> here </a></b>
+            Read about my thoughts on technology, business, and life <a href="/my-blog">here</a>
+          </p>
+          <p>
+            <b>Check out the Spotmentor acquisition news <a href="https://economictimes.indiatimes.com/tech/startups/ey-india-acquires-ai-startup/articleshow/79218623.cms" target="_blank" rel="noreferrer"> here </a></b>
           </p>
           <p>
             I am a seasoned technology leader with a proven track record of successfully leading

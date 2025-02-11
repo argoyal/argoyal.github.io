@@ -38,6 +38,6 @@ At Calance, I am setting up a Digital and Emerging Technology practice, speciali
 - In 2021, I was blessed with a baby boy, so did not travel much.
 - In 2022, I went to Maldives.
 - In 2023, I solo-travelled to United Kingdom and Scotland and witnessed one of my icons Porcupine Tree perform live.
-- In 2024, I went to Thailand.
+- In 2024, I went to Thailand, attended my first ever music festival - Tomorrowland 2024 and was offered to attend AWS re:Invent 2024 in Las Vegas.
 
 There are many other places I have been to in India, which I have not put in. If you want to discuss about those locations, happy to connect.

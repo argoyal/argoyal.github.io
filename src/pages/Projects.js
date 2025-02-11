@@ -1,10 +1,26 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import styled from 'styled-components';
 
 import Main from '../layouts/Main';
 
 import Cell from '../components/Projects/Cell';
 import data from '../data/projects';
+
+const ProjectsGrid = styled.div`
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 2rem;
+  margin: 2rem 0;
+
+  @media (max-width: 1200px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+`;
 
 const Projects = () => (
   <Main
@@ -18,12 +34,14 @@ const Projects = () => (
           <p>A selection of projects that I&apos;m not too ashamed of</p>
         </div>
       </header>
-      {data.map((project) => (
-        <Cell
-          data={project}
-          key={project.title}
-        />
-      ))}
+      <ProjectsGrid>
+        {data.map((project) => (
+          <Cell
+            data={project}
+            key={project.title}
+          />
+        ))}
+      </ProjectsGrid>
     </article>
   </Main>
 );
