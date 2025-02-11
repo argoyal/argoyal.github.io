@@ -11,7 +11,7 @@ const Index = () => (
       <header>
         <div className="title">
           <p>
-            Read about my thoughts on technology, business, and life <a href="/my-blog">here</a>
+            Read about my thoughts on technology, business, and life <Link to="/my-blog">here</Link>
           </p>
           <p>
             <b>Check out the Spotmentor acquisition news <a href="https://economictimes.indiatimes.com/tech/startups/ey-india-acquires-ai-startup/articleshow/79218623.cms" target="_blank" rel="noreferrer"> here </a></b>
