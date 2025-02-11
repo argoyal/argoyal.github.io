@@ -1,5 +1,7 @@
 import React, { Suspense, lazy } from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import {
+  BrowserRouter, Switch, Route, useHistory, Redirect,
+} from 'react-router-dom';
 import Main from './layouts/Main'; // fallback for lazy pages
 import './static/css/main.scss'; // All of our styles
 
@@ -16,34 +18,38 @@ const Projects = lazy(() => import('./pages/Projects'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Stats = lazy(() => import('./pages/Stats'));
 
-const App = () => (
-  <BrowserRouter basename={PUBLIC_URL}>
-    <Suspense fallback={<Main />}>
-      <Switch>
-        <Route exact path="/" component={Index} />
-        <Route path="/about" component={About} />
-        <Route path="/projects" component={Projects} />
-        <Route path="/contact" component={Contact} />
-        <Route path="/stats" component={Stats} />
-        <Route path="/resume" component={Resume} />
-        <Route
-          path="/my-blog"
-          component={() => {
-            window.open('https://arpitgoyalkgp.medium.com', '_blank');
-            return null;
-          }}
-        />
-        <Route
-          path="/ppp-services"
-          component={() => {
-            window.open('https://667653c37575b.site123.me', '_blank');
-            return null;
-          }}
-        />
-        <Route component={NotFound} status={404} />
-      </Switch>
-    </Suspense>
-  </BrowserRouter>
-);
+const App = () => {
+  const history = useHistory();
+
+  return (
+    <BrowserRouter basename={PUBLIC_URL}>
+      <Suspense fallback={<Main />}>
+        <Switch>
+          <Route exact path="/" component={Index} />
+          <Route path="/about" component={About} />
+          <Route path="/projects" component={Projects} />
+          <Route path="/contact" component={Contact} />
+          <Route path="/stats" component={Stats} />
+          <Route path="/resume" component={Resume} />
+          <Route
+            path="/my-blog"
+            component={() => {
+              window.open('https://arpitgoyalkgp.medium.com', '_blank');
+              return <Redirect to="/about" />;
+            }}
+          />
+          <Route
+            path="/ppp-services"
+            component={() => {
+              window.open('https://667653c37575b.site123.me', '_blank');
+              return <Redirect to="/about" />;
+            }}
+          />
+          <Route component={NotFound} status={404} />
+        </Switch>
+      </Suspense>
+    </BrowserRouter>
+  );
+};
 
 export default App;
