@@ -33,12 +33,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version-file: '.nvmrc'
-          cache: 'npm'
       - name: Install
-        run: npm ci
+        run: npm install --no-package-lock
       - name: Build and render
         run: npm run predeploy
         env:
