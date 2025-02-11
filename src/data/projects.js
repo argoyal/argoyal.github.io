@@ -1,6 +1,16 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'Wbck',
+    subtitle: 'A workspace backup and restoration tool',
+    link: 'https://github.com/argoyal/wbck',
+    image: '/images/projects/wbck_logo.jpg',
+    date: '2021-09-10',
+    desc:
+      'A simple CLI utility to backup your workspace '
+      + 'for easy restoration to a new machine, ',
+  },
+  {
     title: 'Flask Scaffolding',
     subtitle: 'Mini project for microservices using Flask.',
     link: 'https://github.com/argoyal/flask-scaffolding',
