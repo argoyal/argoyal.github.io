@@ -38,7 +38,7 @@ const App = () => (
         <Route
           path="/ppp-services"
           component={() => {
-            window.open('https://667653c37575b.site123.me', '_blank');
+            window.open('https://pointsproplus.web.app', '_blank');
             return <Redirect to="/about" />;
           }}
         />
