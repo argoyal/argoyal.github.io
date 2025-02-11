@@ -29,14 +29,14 @@ const App = () => (
         <Route
           path="/my-blog"
           component={() => {
-            window.location.href = 'https://arpitgoyalkgp.medium.com';
+            window.open('https://arpitgoyalkgp.medium.com', '_blank');
             return null;
           }}
         />
         <Route
           path="/ppp-services"
           component={() => {
-            window.location.href = 'https://667653c37575b.site123.me';
+            window.open('https://667653c37575b.site123.me', '_blank');
             return null;
           }}
         />
