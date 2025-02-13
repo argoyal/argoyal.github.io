@@ -75,11 +75,22 @@ const Index = () => (
       <TimelineContainer>
         <TimelineItem>
           <TimelineDate>February, 2025</TimelineDate>
-          <TimelineTitle>New blog launched</TimelineTitle>
+          <TimelineTitle>New blog out</TimelineTitle>
           <TimelineContent>
             <p>
               Wrote a new blog highlighting my observations on Generative AI
               enabled software development. Read about the blog <a href="https://arpitgoyalkgp.medium.com/a-quick-look-at-gen-ai-enabled-development-b46c6e68fe4b">here</a>
+            </p>
+          </TimelineContent>
+        </TimelineItem>
+
+        <TimelineItem>
+          <TimelineDate>June, 2021</TimelineDate>
+          <TimelineTitle>Wrote my first blog</TimelineTitle>
+          <TimelineContent>
+            <p>
+              Wrote my first blog on Blockchain and how it can be used to build a better world.
+              Read the blog <a href="https://arpitgoyalkgp.medium.com/blockchain-an-undervalued-human-revolution-6098e68fe603">here</a>
             </p>
           </TimelineContent>
         </TimelineItem>
@@ -96,11 +107,41 @@ const Index = () => (
         </TimelineItem>
 
         <TimelineItem>
-          <TimelineDate>November, 2020</TimelineDate>
+          <TimelineDate>February, 2020</TimelineDate>
+          <TimelineTitle>Joined Ernst & Young LLP</TimelineTitle>
+          <TimelineContent>
+            <p>
+              Joined Ernst & Young LLP as a Manager to build and scale Spotmentor.
+            </p>
+          </TimelineContent>
+        </TimelineItem>
+
+        <TimelineItem>
+          <TimelineDate>February, 2020</TimelineDate>
           <TimelineTitle>Spotmentor Acquisition</TimelineTitle>
           <TimelineContent>
             <p>
               Check out the Spotmentor acquisition news <a href="https://economictimes.indiatimes.com/tech/startups/ey-india-acquires-ai-startup/articleshow/79218623.cms">here</a>
+            </p>
+          </TimelineContent>
+        </TimelineItem>
+
+        <TimelineItem>
+          <TimelineDate>April, 2016</TimelineDate>
+          <TimelineTitle>Became co-founder with Spotmentor</TimelineTitle>
+          <TimelineContent>
+            <p>
+              Joined Spotmentor as a co-founder and CTO to build HR tech solutions.
+            </p>
+          </TimelineContent>
+        </TimelineItem>
+
+        <TimelineItem>
+          <TimelineDate>January, 2015</TimelineDate>
+          <TimelineTitle>Started my first job</TimelineTitle>
+          <TimelineContent>
+            <p>
+              Started my first job at HT Media (Shine.com) as a Software Developer.
             </p>
           </TimelineContent>
         </TimelineItem>
