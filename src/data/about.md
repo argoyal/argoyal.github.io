@@ -1,9 +1,7 @@
 
 # Intro
 
-I am a DevOps professional with 10+ years of industry experience. I am presently employed as Vice President, Cloud Infrastructure and DevOps Transformation, with Calance Software Private Limited. I have in the past been a co-founder and the CTO of [Spotmentor](https://www.ey.com/en_in/consulting/spotmentor-digital-learning-solutions), now part of EY. Spotmentor is an end to end skilling, learning and careers platform solving a very specific problem in the HR Technology space. At Spotmentor, I was able to setup digital academies for some very large clients.
-
-If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+I am a seasoned technology leader with a proven track record of successfully leading teams of 60+ professionals and delivering high-quality, impactful projects. As an ex-entrepreneur, I thrive in product-driven environments and have navigated the full lifecycle of building, scaling, and exiting a startup. With deep expertise in DevOps, cloud environments, and the Python stack, I take a holistic approach to technology. My strong grasp of systems architecture enables me to design and implement scalable, efficient solutions that align with business objectives. 'Analyzing real-world problems, curating solutions, and implementing them through the digital platform is my passion'-this philosophy drives me in every endeavor. Whether it's architecting robust infrastructure, optimizing cloud operations, or mentoring teams to deliver excellence, I am committed to leveraging technology for meaningful impact.
 
 # Currently
 

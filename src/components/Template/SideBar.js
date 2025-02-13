@@ -19,13 +19,11 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Arpit. I like building things and solving problems. Currently I am heading
-        the digital and emerging technologies practice at Calance Software Pvt Ltd. creating
-        digital solutions for clients.
-        I am an <a href="https://iitkgp.ac.in/" target="_blank" rel="noreferrer">IIT Kharagpur</a> graduate, and
-        the co-founder and CTO of <a href="https://www.ey.com/en_in/consulting/spotmentor-digital-learning-solutions" target="_blank" rel="noreferrer">Spotmentor </a>
-        that got acquired by Ernst & Young LLP. Before Spotmentor,
-        I was a developer with HT Media (Shine.com)
+      <p>
+        I am a tech leader with expertise in DevOps, cloud, and Python,
+        skilled in scaling startups and leading teams. An IIT Kharagpur graduate,
+        I design scalable solutions, optimize systems, and mentor teams, driven
+        by a passion for solving real-world problems through impactful technology.
       </p>
       <ul className="actions">
         <li>
