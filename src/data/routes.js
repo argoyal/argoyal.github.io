@@ -33,8 +33,8 @@ const routes = [
     path: '/ppp-services',
   },
   {
-    label: 'My Drive',
-    path: '/my-drive',
+    label: 'My Dashboard',
+    path: '/my-dashboard',
   },
 ];
 

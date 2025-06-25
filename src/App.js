@@ -43,9 +43,9 @@ const App = () => (
           }}
         />
         <Route
-          path="/my-drive"
+          path="/my-dashboard"
           component={() => {
-            window.open('https://drive.arpitgoyal.co.in', '_blank');
+            window.open('https://dashboard.arpitgoyal.co.in', '_blank');
             return <Redirect to="/about" />;
           }}
         />
